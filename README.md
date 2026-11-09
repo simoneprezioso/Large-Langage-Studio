@@ -1,1 +1,1 @@
-# Large-Langage-Studio
+# Large Langage Studio
